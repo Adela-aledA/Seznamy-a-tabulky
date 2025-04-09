@@ -1,0 +1,25 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    color: black;
+}
+caption{
+    color: white;
+    background-color: rgb(70, 70, 70);
+}
+thead,tfoot{
+    background-color: rgb(219, 219, 219);
+}
+td,th {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    background-color: brown;
+    text-align: center;
+}
+h3{
+    color: rgb(0, 0, 110);
+}
